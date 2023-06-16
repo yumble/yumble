@@ -1,7 +1,21 @@
-### Hi there 👋
+### KWON HYUN JUN
+
+<!-- profile viewers count -->
+<div align=center>
+
+![](https://komarev.com/ghpvc/?username=yumble&color=brightgreen)
+
+</div>
 
 <!--
-**yumble/yumble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Career
+- Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
+- I am currently working at **GeoSoft** in 2020.3. (Alternative Military Service)  
+-->
+
+<!-- Github Stats -->
+[![yumble's github stats](https://github-readme-stats.vercel.app/api?username=yumble)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumble&layout=compact)](https://github.com/yumble/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -14,6 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Spring&logoColor=6DB33F"/>
