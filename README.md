@@ -11,7 +11,7 @@
 </div>
 
 <!-- Github Stats -->
-![yumble's github stats](https://github-readme-stats.vercel.app/api?username=yumble&show_icons=true&theme=radical)
+![yumble's github stats](https://github-readme-stats.vercel.app/api?username=yumble&show_icons=true&theme=radical&count_private=true)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumble&layout=compact)](https://github.com/yumble/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hnjn1101)](https://solved.ac/hnjn1101/)
 
