@@ -1,7 +1,7 @@
-### KWON HYUN JUN : YUMBLE  ![](https://komarev.com/ghpvc/?username=yumble&color=brightgreen) 
+### KWON HYUN JUN : YUMBLE  
 <!-- profile viewers count -->
 <div align=center>
-  <br>
+  
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -10,6 +10,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 </div>
 
 <!-- Github Stats -->
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring boot, AWS, Redis, Kafka
 - 💬 My Tistory blog : https://ruo10102.tistory.com
 - 💬 My LinkedIn ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white) : www.linkedin.com/in/hyunjun-kwon-75a570292
+- ![VISIT](https://komarev.com/ghpvc/?username=yumble&color=brightgreen)
