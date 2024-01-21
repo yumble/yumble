@@ -1,9 +1,6 @@
-### KWON HYUN JUN : YUMBLE
-
+### KWON HYUN JUN : YUMBLE ![](https://komarev.com/ghpvc/?username=yumble&color=brightgreen) <br>
 <!-- profile viewers count -->
 <div align=center>
-
-![](https://komarev.com/ghpvc/?username=yumble&color=brightgreen) <br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
